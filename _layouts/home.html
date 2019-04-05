@@ -1,0 +1,25 @@
+{% include header.html %}
+
+{% if paginator.previous_page %}
+<!-- Page {{ paginator.page }} -->
+{% endif %}
+
+{% for post in paginator.posts %}
+{% assign author = site.data.authors[post.author] %}
+<article>
+	<header>
+		<h1><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
+	</header>
+	<div>
+		{{ post.excerpt }}
+	</div>
+	<footer>
+		<p>
+			Publié le <a href="{{ post.url | prepend:site.github.url }}">{{ post.date | date_to_long_string }}</a>,
+			par {{ author.displayName }}
+			<p>
+	</footer>
+</article>
+{% endfor %}
+
+{% include footer.html %}

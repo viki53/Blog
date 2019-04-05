@@ -1,0 +1,41 @@
+{% include header.html %}
+
+{% if page.type == 'year' %}
+Article de l'année <em>{{ page.title }}</em>
+{% endif %}
+
+{% if page.type == 'month' %}
+Article du mois <em>{{ page.title }}</em>
+{% endif %}
+
+{% if page.type == 'category' %}
+	{% for cat in site.data.categories %}
+		{% if page.title == cat.slug %}
+		Catégorie "<em>{{ cat.title }}</em>"
+		{% endif %}
+	{% endfor %}
+{% endif %}
+
+{% if paginator.previous_page %}
+<!-- Page {{ paginator.page }} -->
+{% endif %}
+
+{% for post in page.posts %}
+{% assign author = site.data.authors[post.author] %}
+<article>
+	<header>
+		<h1><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
+	</header>
+	<div>
+		{{ post.excerpt }}
+	</div>
+	<footer>
+		<p>
+			Publié le <a href="{{ post.url | prepend:site.github.url }}">{{ post.date | date_to_long_string }}</a>,
+			par {{ author.displayName }}
+			<p>
+	</footer>
+</article>
+{% endfor %}
+
+{% include footer.html %}
