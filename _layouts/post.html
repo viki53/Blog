@@ -1,20 +1,25 @@
 {% include header.html %}
-{% assign post = page %}
-{% assign author = site.data.authors[post.author] %}
 
-<article itemscope itemtype="http://schema.org/BlogPosting">
-	<header>
-		<h1 itemprop="headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
-	</header>
-	<div>
-		{{ content }}
+<main>
+	<div class="container">
+		{% assign post = page %}
+		{% assign author = site.data.authors[post.author] %}
+
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<header class="hero">
+				<h1 itemprop="headline">{{ post.title }}</h1>
+			</header>
+			<div>
+				{{ content }}
+			</div>
+			<footer>
+				<p>
+					Publié <a href="{{ page.url | prepend:site.github.url }}">le <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_long_string }}</time></a>,
+					par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.displayName }}</span>
+					<p>
+			</footer>
+		</article>
 	</div>
-	<footer>
-		<p>
-			Publié le <a href="{{ page.url | prepend:site.github.url }}"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_long_string }}</time></a>,
-			par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.displayName }}</span>
-			<p>
-	</footer>
-</article>
+</main>
 
 {% include footer.html %}

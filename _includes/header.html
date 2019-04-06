@@ -23,6 +23,10 @@
 	<meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace }}">
 	<meta itemprop="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace }}">
 	<meta name="twitter:description" content="{{ page.excerpt | strip_html | normalize_whitespace }}">
+	{% else %}
+	<meta name="description" content="{{ site.description | strip_html | normalize_whitespace }}">
+	<meta itemprop="og:description" content="{{ site.description | strip_html | normalize_whitespace }}">
+	<meta name="twitter:description" content="{{ site.description | strip_html | normalize_whitespace }}">
 	{% endif %}
 	
 	{% if page.cover %}
@@ -36,14 +40,15 @@
 	{% endif %}
 </head>
 <body>
-	<nav id="menu">
-		<ul>
-			<li><a href="/">Accueil</a></li>
-			{% for category in site.data.categories %}
-			{% if site.categories[category.slug].size %}
-			<li><a href="/categorie/{{ category.slug }}/">{{ category.title }}</a></li>
-			{% endif %}
-			{% endfor %}
-		</ul>
+	<nav id="quick-access">
+		<div class="container">
+			<ul>
+				<li><a href="/">Accueil</a></li>
+				{% for category in site.data.categories %}
+				{% if site.categories[category.slug].size %}
+				<li><a href="/blog/categorie/{{ category.slug }}/">{{ category.title }}</a></li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
 	</nav>
-	<main class="container"></main>

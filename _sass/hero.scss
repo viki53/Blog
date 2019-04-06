@@ -1,0 +1,26 @@
+@import "./variables.scss";
+
+.hero {
+	position: relative;
+	padding: 6rem 2rem;
+	text-align: center;
+	color: $page-text-color;
+	background-color: $page-background-color;
+	background-image: url("../images/classy_fabric.png");
+
+	&::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: $page-background-color;
+		background-image: radial-gradient(ellipse at center, $page-background-color 40%, mix($page-background-color, $shadow-color, 35%) 100%);
+		z-index: 0;
+	}
+
+	& > * {
+		position: relative;
+	}
+}

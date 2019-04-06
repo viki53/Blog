@@ -1,0 +1,8 @@
+.hero ~ article,
+article > .hero ~ div {
+	padding: 1rem .5rem;
+}
+
+article > div {
+	padding: .5rem 0;
+}

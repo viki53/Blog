@@ -1,10 +1,8 @@
 # Site settings
-title: Et si on discutait ?
+title: DOSE (Et Si On Discutait ?)
 email: contact@corentin-hatte.eu
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Un blog qui pousse à la discussion et à la réflexion
 baseurl: ""
 url: ""
 twitter_username: viki53
@@ -30,12 +28,14 @@ jekyll-archives:
   enabled:
     - year
     - month
+    - day
     - categories
   layout: archive
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    category: '/categorie/:name/'
+    year: '/blog/:year/'
+    month: '/blog/:year/:month/'
+    day: '/blog/:year/:month/:day/'
+    category: '/blog/categorie/:name/'
 
 paginate: 10
 excerpt_separator: "---"
