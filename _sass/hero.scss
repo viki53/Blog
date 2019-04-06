@@ -5,8 +5,9 @@
 	padding: 6rem 2rem;
 	text-align: center;
 	color: $page-text-color;
-	background-color: $page-background-color;
+	background-color: $page-fallback-bg-color;
 	background-image: url("../images/classy_fabric.png");
+	font-family: $font-family-headings;
 
 	&::before {
 		content: "";
@@ -17,6 +18,7 @@
 		height: 100%;
 		background-color: $page-background-color;
 		background-image: radial-gradient(ellipse at center, $page-background-color 40%, mix($page-background-color, $shadow-color, 35%) 100%);
+		opacity: .6;
 		z-index: 0;
 	}
 

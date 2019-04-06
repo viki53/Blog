@@ -46,7 +46,7 @@
 				<li><a href="/">Accueil</a></li>
 				{% for category in site.data.categories %}
 				{% if site.categories[category.slug].size %}
-				<li><a href="/blog/categorie/{{ category.slug }}/">{{ category.title }}</a></li>
+				<li><a href="{{ '/blog/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a></li>
 				{% endif %}
 				{% endfor %}
 			</ul>

@@ -4,6 +4,11 @@
 	<div class="container">
 		{% assign post = page %}
 		{% assign author = site.data.authors[post.author] %}
+		{% for cat in site.data.categories %}
+			{% if cat.slug == post.category%}
+			{% assign category = cat %}
+			{% endif %}
+		{% endfor %}
 
 		<article itemscope itemtype="http://schema.org/BlogPosting">
 			<header class="hero">
@@ -14,9 +19,10 @@
 			</div>
 			<footer>
 				<p>
-					Publié <a href="{{ page.url | prepend:site.github.url }}">le <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_long_string }}</time></a>,
+					Publié <a href="{{ post.url | prepend:site.github.url }}">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date_to_long_string }}</time></a>,
 					par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.displayName }}</span>
-					<p>
+					{% if category %}dans <a href="{{ '/blog/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a>{% endif %}
+				<p>
 			</footer>
 		</article>
 	</div>
