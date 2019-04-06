@@ -12,16 +12,16 @@
 
 		{% for post in paginator.posts %}
 		{% assign author = site.data.authors[post.author] %}
-		<article>
+		<article class="article">
 			<header>
 				<h1><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
 			</header>
-			<div>
+			<div class="post-excerpt">
 				{{ post.excerpt }}
 			</div>
 			<footer>
 				<p>
-					Publié <a href="{{ post.url | prepend:site.github.url }}">le {{ post.date | date_to_long_string }}</a>,
+					<a href="{{ post.url | prepend:site.github.url }}">Le {{ post.date | date_to_long_string }}</a>,
 					par {{ author.displayName }}
 				<p>
 			</footer>
