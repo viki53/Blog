@@ -8,7 +8,7 @@ url: ""
 twitter_username: viki53
 language: "fr"
 timezone: "Europe/Paris"
-encoding: "utf-8"
+encoding: UTF-8
 
 # Build settings
 markdown: kramdown

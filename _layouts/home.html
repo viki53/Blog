@@ -21,7 +21,7 @@
 			</div>
 			<footer>
 				<p>
-					<a href="{{ post.url | prepend:site.github.url }}">Le {{ post.date | date_to_long_string }}</a>,
+					Publié <a href="{{ post.url | prepend:site.github.url }}">le {{ post.date | date:"%d/%m/%Y" }}</a>,
 					par {{ author.displayName }}
 				<p>
 			</footer>
