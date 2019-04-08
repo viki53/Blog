@@ -38,6 +38,9 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     category: '/categorie/:name/'
 
+feed:
+  path: atom.xml
+
 paginate: 10
 
 exclude:
