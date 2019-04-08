@@ -38,7 +38,6 @@ jekyll-archives:
     category: '/blog/categorie/:name/'
 
 paginate: 10
-excerpt_separator: "---"
 
 exclude:
   - Gemfile
