@@ -9,6 +9,7 @@ twitter_username: viki53
 language: "fr"
 timezone: "Europe/Paris"
 encoding: UTF-8
+permalink: /:year/:month/:day/:title:output_ext
 
 # Build settings
 markdown: kramdown
