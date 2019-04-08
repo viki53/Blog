@@ -32,10 +32,10 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    year: '/blog/:year/'
-    month: '/blog/:year/:month/'
-    day: '/blog/:year/:month/:day/'
-    category: '/blog/categorie/:name/'
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    category: '/categorie/:name/'
 
 paginate: 10
 
