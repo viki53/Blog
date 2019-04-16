@@ -8,7 +8,7 @@ date: 2019-04-08 14:42:00
 
 Un des principes ayant eu le plus gros impact dans ma vie (surtout récemment) est le minimalisme, notamment parce qu'il peut s'appliquer un peu partout sans pour autant nécessiter de changement radical ou global : la transition se fait en douceur et l'esprit s'adapte très bien (voire en demande plus).
 
-J'ai découvert ce principe grace à YouTube, en particulier [la chaîne de Matt D'Avella](https://www.youtube.com/mattdavella) qui explique très bien le concept de façon légère, candide et honnête : il est lui-même minimaliste mais ne cherche pas à fonder un culte, il présente juste son point de vue (et ceux d'autres personnes qu'il interroge parfois dans son podcast).
+J'ai découvert ce principe grâce à YouTube, en particulier [la chaîne de Matt D'Avella](https://www.youtube.com/mattdavella) qui explique très bien le concept de façon légère, candide et honnête : il est lui-même minimaliste mais ne cherche pas à fonder un culte, il présente juste son point de vue (et ceux d'autres personnes qu'il interroge parfois dans son podcast).
 
 # Ça consiste en quoi ?
 

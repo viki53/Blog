@@ -46,7 +46,7 @@ Ou elles ne nous donnent pas forcément d'information indispensable dans l'immé
 
 En prenant le temps de chercher dans les paramètres de votre smartphone ou de chaque application vous pouvez souvent filtrer quelles notifications vous voulez recevoir et sous quel format (est-ce que la sonnerie est utile pour me dire que quelqu'un a *liké* ma photo sur Instagram ?).
 
-J'ai également diminué le nombre d'applications installés sur mon smartphone, notamment les jeux. Si j'ai besoin (ou envie) d'en utiliser une, je peux rapidement la télécharger, voire passer directement par le site mobile du service.
+J'ai également diminué le nombre d'applications installées sur mon smartphone, notamment les jeux. Si j'ai besoin (ou envie) d'en utiliser une, je peux rapidement la télécharger, voire passer directement par le site mobile du service.
 
 ## Moins d'écrans
 
