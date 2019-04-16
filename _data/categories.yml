@@ -2,7 +2,9 @@
   title: Blog
 - slug: ecologie
   title: Écologie
-- slug: relations
-  title: Relations
 - slug: minimalisme
   title: Minimalisme
+- slug: relations
+  title: Relations
+- slug: sante
+  title: Santé

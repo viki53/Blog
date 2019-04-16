@@ -66,6 +66,30 @@ img {
 	height: auto;
 }
 
+blockquote {
+	margin: 1rem;
+	border-left: 4px solid $accent-color;
+	padding-left: .5rem;
+	font-style: italic;
+}
+
+ul {
+	li {
+		list-style-type: none;
+		
+		&::before {
+			content: "∙ ";
+			margin-left: -1.5rem;
+			margin-right: .5rem;
+			display: inline-block;
+			font-size: 3rem;
+			line-height: 1.5rem;
+			vertical-align: bottom;
+			color: $accent-color;
+		}
+	}
+}
+
 hr {
 	margin: 20px 0;
 	height: 1px;

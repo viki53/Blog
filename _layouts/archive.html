@@ -5,11 +5,11 @@
 		<div class="hero">
 			<h1>
 				{% if page.type == 'year' %}
-				Article de l'année <em>{{ page.title }}</em>
+				Articles de l'année <em>{{ page.title }}</em>
 				{% endif %}
 
 				{% if page.type == 'month' %}
-				Article du mois <em>{{ page.title }}</em>
+				Articles pour le mois de <em>{{ page.title }}</em>
 				{% endif %}
 
 				{% if page.type == 'category' %}
@@ -38,7 +38,7 @@
 			<footer>
 				<p>
 					Publié <a href="{{ post.url | prepend:site.github.url }}">le {{ post.date | date:"%d/%m/%Y" }}</a>,
-					par {{ author.name }}
+					écrit par {{ author.name }}
 				<p>
 			</footer>
 		</article>

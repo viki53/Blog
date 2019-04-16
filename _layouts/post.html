@@ -35,9 +35,9 @@
 						{% when '11' %}novembre
 						{% when '12' %}décembre
 						{% endcase %}
-						{{ page.date | date:"%Y" }}</time></a>,
-					par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span>
-					{% if category %}dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a>{% endif %}
+						{{ page.date | date:"%Y" }}</time></a>{% if category %}
+					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a>{% endif %}.
+					Écrit par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span>
 				<p>
 			</footer>
 		</article>
