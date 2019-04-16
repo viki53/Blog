@@ -3,6 +3,7 @@ title:  "Parlons Minimalisme"
 layout: post
 author: corentin
 category: minimalisme
+date: 2019-04-08 14:42:00
 ---
 
 Un des principes ayant eu le plus gros impact dans ma vie (surtout récemment) est le minimalisme, notamment parce qu'il peut s'appliquer un peu partout sans pour autant nécessiter de changement radical ou global : la transition se fait en douceur et l'esprit s'adapte très bien (voire en demande plus).
