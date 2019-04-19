@@ -70,13 +70,13 @@ Un des inconvénients de travailler chez soi c'est les distractions.
 
 J'avais une belle télé, grande, super moderne (4k, HDR, etc.), avec une barre de son à empêcher les voisins de dormir (ma voisine peut en témoigner). C'est sûr, ça donne envie d'en profiter, de regarder un maximum de choses dessus ! En plus elle était collée à mon bureau, donc en pleine vue en permanence.
 
-Alors je l'ai vendue. La barre de son et le meuble aussi. J'ai acheté un modèle plus petit, certes un peu moins glamour mais qui fait décemment le job. Et j'ai au passage pas mal gagné en luminosité en supprimant une grosse masse noire devant le mur… (*c'était le point déco de cet article*)
+Alors je l'ai vendue. La barre de son et le meuble aussi. J'ai acheté un modèle plus petit, certes un peu moins glamour mais qui fait décemment le job, et l'ai installée dans le coin du salon. J'ai au passage pas mal gagné en luminosité en supprimant une grosse masse noire devant le mur… (*c'était le point déco de cet article*)
 
 Et le grand écran d'ordi dernier cri ? J'ai déjà un ordinateur portable avec un écran intégré de très bonne qualité, ça suffit largement pour être concentré sur une chose à la fois. Autant m'éviter des torticolis et l'enlever du bureau tant que je n'en ai pas réellement besoin.
 
 # Prendre du temps pour soi
 
-N'ayez pas peur de vous séparer des autres. Pas définitivement, mais passer une journée seul permet de se retrouver face à soi-même, de faire des choses que l'on aime sans pression extérieure.
+N'ayez pas peur de vous séparer des autres. Pas définitivement, mais passer une journée seul(e) permet de se retrouver face à soi-même, de faire des choses que l'on aime sans pression extérieure.
 
 Que vous passiez la journée dans le noir à regarder une série, à danser la musique à fond ou à entretenir votre jardin, peu importe votre productivité : détendez-vous, videz-vous la tête quelques instants, appréciez ces moments de solitude pour retrouver vos proches l'esprit libre.
 
@@ -88,19 +88,21 @@ Non seulement j'ai pu faire quelque chose de personnel, mais j'ai beaucoup appri
 
 Profiter du confort de nos habitudes permet d'éliminer le stress de l'inconnu, certes. Mais affronter l'inconnu permet aussi de découvrir autre chose, voire de mieux apprécier nos habitudes en les bousculant occasionnellement.
 
-*Un exemple très personnel* : je n'étais pas forcément à l'aise avec mon corps jusqu'à très récemment. Comptant partir en vacances en Californie, j'ai contacté [une photographe américaine](http://ownboudoir.com/) spécialisée dans le Boudoir pour femmes pour lui demander si elle connaissait quelqu'un qui pourrait me permettre d'essayer, mais étant un homme c'est pas toujours simple un(e) photographe qui soit à l'aise. Elle m'a alors répondu qu'elle serait pas loin de ma destination pendant mon voyage et qu'elle a envie de s'entraîner avec des modèles masculins : coup de chance ! J'ai donc fait une séance, sans en parler (à 2 ou 3 exceptions près) avant et attendu patiemment le résultat.
+*Un exemple très personnel* : je n'étais pas forcément à l'aise avec mon corps jusqu'à très récemment. Comptant partir en vacances en Californie, j'ai contacté [une photographe américaine](http://ownboudoir.com/) spécialisée dans le Boudoir pour femmes pour lui demander si elle connaissait quelqu'un qui pourrait me permettre d'essayer, mais étant un homme c'est pas toujours simple de trouver un(e) photographe qui soit à l'aise. Elle m'a alors répondu qu'elle serait pas loin de ma destination pendant mon voyage et qu'elle a envie de s'entraîner avec des modèles masculins : coup de chance ! J'ai donc fait une séance, sans en parler à personne (à 2 ou 3 exceptions près) avant et attendu patiemment le résultat.
 
 Je n'aurais jamais pensé faire ça il y a quelques années et pourtant j'ai adoré cette expérience ! À vous de trouver cette expérience, propre à vous, qui vous fera **sortir des sentiers battus** et prendre un peu plus **confiance en vous**.
 
 # Assumer ses choix
 
-Attention, sujet un poil *touchy*. Il ne s'agit pas ici d'imposer ses choix de vie aux autres sans considération pour eux. Quand on ne se conforme pas exactement au moule dans lequel les autres voudraient nous mettre, il est parfois facile de se sentir à mal à l'aise, comme si on était mal foutu. L'objectif est donc de respirer un peu plus librement.
+Attention, sujet un poil *touchy*. Il ne s'agit pas ici d'imposer ses choix de vie aux autres sans considération pour eux.
+
+Quand on ne se conforme pas exactement au moule dans lequel les autres voudraient nous mettre, il est parfois facile de se sentir à mal à l'aise, comme si on était mal foutu. L'objectif est donc de respirer un peu plus librement.
 
 Que vous soyez écolo, polyamoureux, végétarien ou autre, **votre choix de vie ne fera pas toujours l'unanimité**. Mais ce n'est pas une raison pour le cacher et mal le vivre.
 
 L'idée encore une fois n'est pas de dire "*je suis comme ça, faites avec et qu'on n'en cause plus*" mais d'expliquer en quoi vous êtes différent : pas besoin de convertir les autres pour qu'ils puissent comprendre votre point de vue et le respecter. Vous pourrez ainsi trouver un terrain d'entente, faire des compromis pour vous entendre.
 
-J'ai par exemple expliqué avant Noël à ma famille que je ne mangeais presque plus de viande (en grande partie pour limiter la pollution liée à l'élevage intensif d'animaux — surtout les bovins). Sauf qu'avec 4 amateurs de viande rouge en face, difficile de faire passer la pilule : ne manger *que des légumes pour les repas de famille* ? Faire *2 menus différents* ? On a discuté pour par **trouver un juste milieu** : un plat de volaille (de la viande) issue d'une ferme locale (impact environnemental contenu) avec des légumes. On peut donc se retrouver à la même table et manger la même chose tout en respectant les choix de chacun.
+J'ai par exemple expliqué avant Noël à ma famille que je ne mangeais presque plus de viande (en grande partie pour limiter la pollution liée à l'élevage intensif d'animaux — surtout les bovins). Sauf qu'avec 4 amateurs de viande rouge en face, difficile de faire passer la pilule : ne manger *que des légumes pour les repas de famille* ? Faire *2 menus différents* ? On a pas mal discuté pour finir par **trouver un juste milieu** : un plat de volaille (de la viande) issue d'une ferme locale (impact environnemental contenu) avec des légumes. On peut donc se retrouver à la même table et manger la même chose tout en respectant les choix de chacun.
 
 # Communiquer et comprendre
 
@@ -114,9 +116,9 @@ Il faut donc agir sur deux facteurs complémentaires et également indispensable
 
 Vous allez tout d'abord devoir apprendre à exprimer vos problèmes, ce qui n'est pas une mince affaire si vous n'en avez pas l'habitude.
 
-Vous pouvez par exemple commencer à écrire. Pas forcément sur ce qui ne va pas, mais tenir une sorte de journal. Racontez vos idées, les événements marquants de la journée, vos questions, vos doutes… Cela devrait vous permettre de, progressivement, mieux formuler ce que vous avez à dire.
+Vous pouvez par exemple **commencer à écrire**. Pas forcément sur ce qui ne va pas, mais tenir une sorte de journal. Racontez vos idées, les événements marquants de la journée, vos questions, vos doutes… Cela devrait vous permettre de, progressivement, mieux formuler ce que vous avez à dire.
 
-Vous pourrez alors commencer à parler avec vos proches ou un professionnel suivant les cas. Je rappelle d'ailleurs qu'il n'y a aucun mal à aller voir un psy si vous en ressentez le besoin : dans le doute prenez un rendez-vous, seul un professionnel pourra vous dire si c'est pertinent.
+Vous pourrez alors **commencer à parler** avec vos proches ou un professionnel suivant les cas. Je rappelle d'ailleurs qu'il n'y a aucun mal à aller voir un psy si vous en ressentez le besoin : dans le doute prenez un rendez-vous, seul un professionnel pourra vous dire si c'est pertinent.
 
 Autrement il faudra trouver la bonne personne à qui parler. À vous de voir suivant la situation qui est le plus apte à vous aider : un membre de votre famille, un ami, la personne qui partage votre vie…
 
@@ -124,7 +126,7 @@ Autrement il faudra trouver la bonne personne à qui parler. À vous de voir sui
 
 **Trouver la bonne personne** c'est bien, mais **être la bonne personne** c'est encore mieux.
 
-Que vous soyez ou non concerné par le point précédent (après tout nous n'avez peut-être pas besoin de parler si tout vas bien), quelqu'un peut avoir besoin de vous parler.
+Que vous soyez ou non concerné(e) par le point précédent (après tout nous n'avez peut-être pas besoin de parler si tout va bien), quelqu'un peut avoir besoin de vous parler.
 
 Et **il ne suffit pas de hocher la tête en jetant quelques onomatopées** aléatoirement pour être efficace.
 
@@ -159,7 +161,7 @@ Je fais de l'escalade depuis quelques années. Au début pour essayer de bouger 
 
 Et puis j'ai trouvé le sport qui me convient, que je peux pratiquer aussi bien pour passer le temps que pour me tenir en forme.
 
-Un défouloir efficace. Quand j'ai un coup de mou je file à la salle : 2 heures plus tard mon stress est évacué sous forme de sueur (*comment ça c'est pas médicalement prouvé ?*) !
+Un défouloir efficace. Quand j'ai un coup de mou je file à la salle : 2 heures plus tard mon stress est évacué sous forme de sueur (*comment ça c'est pas scientifiquement prouvé ?*) !
 
 # Discutons ensemble
 
