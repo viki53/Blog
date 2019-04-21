@@ -14,6 +14,7 @@
 		padding: 0;
 
 		& > li {
+			list-style: none;
 			margin: 0;
 			padding: 0;
 			
@@ -26,6 +27,10 @@
 				&:focus {
 					text-decoration: underline;
 				}
+			}
+
+			&::before {
+				content: none;
 			}
 		}
 	}
