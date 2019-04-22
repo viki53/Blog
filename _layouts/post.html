@@ -19,8 +19,9 @@
 			</div>
 			<footer class="post-info">
 				<p>
+					Article rédigé par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span>.
 					Publié <a href="{{ post.url | prepend:site.github.url }}">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
-						{% assign m = page.date | date: "%-m" %}
+						{% assign m = post.date | date: "%-m" %}
 						{% case m %}
 						{% when '1' %}janvier
 						{% when '2' %}févrirer
@@ -35,9 +36,8 @@
 						{% when '11' %}novembre
 						{% when '12' %}décembre
 						{% endcase %}
-						{{ page.date | date:"%Y" }}</time></a>{% if category %}
+						{{ post.date | date:"%Y" }} à {{ post.date | date:"%Hh%M" }}</time></a>{% if category %}
 					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a>{% endif %}.
-					Écrit par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span>
 				<p>
 			</footer>
 		</article>
