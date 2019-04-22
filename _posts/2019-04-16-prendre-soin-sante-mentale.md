@@ -3,7 +3,7 @@ title: "Entretenir sa santé mentale"
 layout: post
 author: corentin
 category: sante
-date: 2019-04-16 18:02:00
+date: 2019-04-16 18:02:00 +02:00
 ---
 
 Les grands gourous et autres influenceurs en tous genres savent très bien donner des conseils pour être heureux : *achetez ceci*, *faites cela*, *méditez 12 heures par jour*… 
