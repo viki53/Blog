@@ -14,7 +14,7 @@ J'ai découvert ce principe grâce à YouTube, en particulier [la chaîne de Mat
 
 L'idée est simple : on essaie de consommer moins (et mieux) et de se séparer (progressivement ou non) du superflu. L'un des objectifs étant de réapprendre à apprécier ce que l'on a, d'en tirer le maximum, et de consommer plus intelligemment.
 
-On arrête ainsi d'acheter d'acheter impulsivement, parce qu'on peut. On va plutôt prendre le temps de réfléchir à nos achats pour sélectionner ceux qui nous apportent réellement quelque chose (*prochain étape : la méthode Konmari ?*) et éliminer les achats qui ne nous rendent heureux que de façon temporaire, parce qu'on a acheté quelque chose plutôt que parce que cet objet nous sera utile sur le long terme.
+On arrête ainsi d'acheter impulsivement, parce qu'on peut. On va plutôt prendre le temps de réfléchir à nos achats pour sélectionner ceux qui nous apportent réellement quelque chose (*prochain étape : la méthode Konmari ?*) et éliminer les achats qui ne nous rendent heureux que de façon temporaire, parce qu'on a acheté quelque chose plutôt que parce que cet objet nous sera utile sur le long terme.
 
 Cet état d'esprit permet de faire des choix économiques plus raisonnables (moins d'achats inutiles donc moins d'argent dépensé en vain) mais aussi plus écologiques (moins d'objets non utilisés et moins d'achats au total donc moins de pollution). Et pour ceux qui souhaitent mettre de l'argent de côté ou rembourser des dettes/emprunts, c'est un bon moyen de reprendre la main sur ses finances.
 
