@@ -1,5 +1,5 @@
 ---
-title:  "Soyons curieux !"
+title:  "Soyons curieux !"
 layout: post
 author: corentin
 category: culture
