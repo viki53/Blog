@@ -16,6 +16,7 @@
 	{% feed_meta %}
 
 	<meta itemprop="og:site_name" content="{{ site.name }}">
+	<meta itemprop="og:locale" content="{{ site.language }}">
 	
 	<meta itemprop="og:title" content="{{ page.title }}">
 	<meta itemprop="og:url" content="{{ page.url | prepend:site.github.url }}">
@@ -23,7 +24,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="{{ page.title || site.title }}">
 	<meta name="twitter:url" content="{{ page.url | prepend:site.github.url }}">
-	<meta name="twitter:site" content="@HelyoWorld">
+	<meta name="twitter:site" content="@viki53">
 	
 	{% if page.excerpt %}
 	<meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace }}">
