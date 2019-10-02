@@ -17,16 +17,16 @@ N'ayant jamais reçu d'éducation sexuelle à proprement parler, que ce soit par
 **Note** : les résultats ont été rendus anonymes pour permettre à chacun de s'exprimer librement, même si certains participants ont peut-être hésité à répondre librement sur Instagram car les réponses ne sont par défaut pas anonymes.
 
 <ul class="photos-grid">
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-twitter-q1.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-twitter-q1.jpg" alt="Sondage Twitter — Résultats de la question 1"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-twitter-q2.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-twitter-q2.jpg" alt="Sondage Twitter — Résultats de la question 2"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-twitter-q3.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-twitter-q3.jpg" alt="Sondage Twitter — Résultats de la question 3"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-twitter-q4.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-twitter-q4.jpg" alt="Sondage Twitter — Résultats de la question 4"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-twitter-q5.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-twitter-q5.jpg" alt="Sondage Twitter — Résultats de la question 5"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-instagram-q1.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-instagram-q1.jpg" alt="Sondage Instagram — Résultats de la question 1"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-instagram-q2.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-instagram-q2.jpg" alt="Sondage Instagram — Résultats de la question 2"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-instagram-q3.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-instagram-q3.jpg" alt="Sondage Instagram — Résultats de la question 3"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-instagram-q4.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-instagram-q4.jpg" alt="Sondage Instagram — Résultats de la question 4"></a></li>
-	<li><a href="/images/posts/le-sexe-ce-tabou/sondage-instagram-q5.jpg"><img src="/images/posts/le-sexe-ce-tabou/sondage-instagram-q5.jpg" alt="Sondage Instagram — Résultats de la question 5"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q1.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q1.jpg" alt="Sondage Twitter — Résultats de la question 1"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q2.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q2.jpg" alt="Sondage Twitter — Résultats de la question 2"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q3.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q3.jpg" alt="Sondage Twitter — Résultats de la question 3"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q4.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q4.jpg" alt="Sondage Twitter — Résultats de la question 4"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q5.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-twitter-q5.jpg" alt="Sondage Twitter — Résultats de la question 5"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q1.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q1.jpg" alt="Sondage Instagram — Résultats de la question 1"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q2.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q2.jpg" alt="Sondage Instagram — Résultats de la question 2"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q3.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q3.jpg" alt="Sondage Instagram — Résultats de la question 3"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q4.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q4.jpg" alt="Sondage Instagram — Résultats de la question 4"></a></li>
+	<li><a href="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q5.jpg"><img src="{{ site.github.url }}/images/posts/le-sexe-ce-tabou/sondage-instagram-q5.jpg" alt="Sondage Instagram — Résultats de la question 5"></a></li>
 </ul>
 
 ---
