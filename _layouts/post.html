@@ -12,15 +12,15 @@
 
 		<article itemscope itemtype="http://schema.org/BlogPosting">
 			<header class="hero">
-				<h1 itemprop="headline">{{ post.title }}</h1>
+				<h1 itemprop="name headline">{{ post.title }}</h1>
 			</header>
-			<div class="post-content">
+			<div class="post-content" itemprop="articleBody">
 				{{ content }}
 			</div>
 			<footer class="post-info">
 				<p>
-					Article rédigé par <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span>.
-					Publié <a href="{{ post.url | prepend:site.github.url }}">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
+					Article rédigé par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email"><span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span></a>.
+					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
 						{% assign m = post.date | date: "%-m" %}
 						{% case m %}
 						{% when '1' %}janvier
@@ -37,7 +37,7 @@
 						{% when '12' %}décembre
 						{% endcase %}
 						{{ post.date | date:"%Y" }} à {{ post.date | date:"%Hh%M" }}</time></a>{% if category %}
-					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/">{{ category.title }}</a>{% endif %}.
+					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/" itemprop="articleSection">{{ category.title }}</a>{% endif %}.
 				<p>
 			</footer>
 		</article>
