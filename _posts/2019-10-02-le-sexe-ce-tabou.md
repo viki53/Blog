@@ -79,6 +79,13 @@ Peut-être, alors, que quand ces bases seront acquises on pourra s'occuper de me
 
 Si vous ne connaissez pas la série [Masters Of Sex](http://www.allocine.fr/series/ficheserie_gen_cserie=10470.html) je vous la recommande vivement : elle retrace (de façon romancée) les travaux du Docteur William Masters et son assistante Virginia Johnson lors de leur étude détaillée sur la sexualité humaine dans les années 1950.
 
+---
+
+# Remerciements
+
+Je tiens à remercier chaleureusement toutes les personnes qui ont répondu aux sondages, que ce soit sur Twitter ou Instagram. Il y a même des inconnus dans le lot ! Un grand merci à vous, autrement je n'aurais pas pu alimenter cet article de la sorte.
+
+Un grand merci également aux amis et inconnus avec qui j'ai pu discuter un peu du sujet, qui m'ont suggéré des pistes de réflexion. Vous êtes formidables !
 
 
 *[IST]: Infection(s) Sexuellement Transmissible(s)
