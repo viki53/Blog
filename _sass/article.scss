@@ -43,3 +43,30 @@
 	border-top: 1px solid $shadow-color;
 	font-style: italic;
 }
+
+ul.photos-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+ul.photos-grid > li {
+	flex: 0 0 20%;
+	list-style-type: none;
+	margin: 0;
+	padding: .25rem;
+}
+ul.photos-grid > li::before {
+	content: none;
+}
+@media (max-width: calc(#{$size-small} - 1px)) {
+	ul.photos-grid > li {
+		flex-basis: 50%;
+	}
+}
+@media (min-width: #{$size-small}) and (max-width: calc(#{$size-big} - 1px)) {
+	ul.photos-grid > li {
+		flex-basis: 33.3333%;
+	}
+}
