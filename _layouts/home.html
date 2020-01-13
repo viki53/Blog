@@ -6,9 +6,7 @@
 			<h1 itemprop="name headline">{{ site.title }}</h1>
 		</div>
 
-		{% if paginator.previous_page %}
-		Page {{ paginator.page }}
-		{% endif %}
+		{% include pagination.html %}
 
 		{% for post in paginator.posts %}
 		{% assign author = site.data.authors[post.author] %}
@@ -34,6 +32,8 @@
 			</footer>
 		</article>
 		{% endfor %}
+
+		{% include pagination.html %}
 	</div>
 </main>
 

@@ -5,11 +5,11 @@
 		<div class="hero">
 			<h1>
 				{% if page.type == 'year' %}
-				Articles de l'année <em>{{ page.title }}</em>
-				{% endif %}
-
-				{% if page.type == 'month' %}
-				Articles pour le mois de <em>{{ page.title }}</em>
+				Articles de l'année <em>{{ page.date | date:'%Y' }}</em>
+				{% elsif page.type == 'month' %}
+				Articles pour le mois de <em>{% include date-month-localized.html date=page.date %}{{ page.date | date:'%Y' }}</em>
+				{% elsif page.type == 'day' %}
+				Articles du {{ page.date | date:'%d' }} <em>{% include date-month-localized.html date=page.date %}{{ page.date | date:'%Y' }}</em>
 				{% endif %}
 
 				{% if page.type == 'category' %}

@@ -21,21 +21,7 @@
 				<p>
 					Article rédigé par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email"><span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span></a>.
 					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
-						{% assign m = post.date | date: "%-m" %}
-						{% case m %}
-						{% when '1' %}janvier
-						{% when '2' %}févrirer
-						{% when '3' %}mars
-						{% when '4' %}avril
-						{% when '5' %}mai
-						{% when '6' %}juin
-						{% when '7' %}juillet
-						{% when '8' %}août
-						{% when '9' %}septembre
-						{% when '10' %}octobre
-						{% when '11' %}novembre
-						{% when '12' %}décembre
-						{% endcase %}
+						{% include date-month-localized.html date=post.date %}
 						{{ post.date | date:"%Y" }} à {{ post.date | date:"%Hh%M" }}</time></a>{% if category %}
 					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/" itemprop="articleSection">{{ category.title }}</a>{% endif %}.
 				<p>
