@@ -16,6 +16,8 @@ Petit j'ai souvent entendu l'expression "*La curiosité est un vilain défaut*" 
 
 J'adorais l'émission [C'est Pas Sorcier](https://www.youtube.com/user/cestpassorcierftv), que je suivais autant que possible en rentrant de l'école. Alors pourquoi ne pourrait-on plus poser de questions ? Tant de sujets sont-ils devenus tabous ?
 
+---
+
 Depuis quelques mois j'ai commencé à changer une habitude : au lieu de regarder beaucoup de séries le cerveau éteint, j'ai commencé à regarder des vidéos éducatives ou sur des sujets que j'avais envie d'approfondir ou découvrir.
 
 Des chaînes sur des sujets variés (de l'écologie, du bâtiment, des tiny houses, du jardinage, de la philosophie, etc.) mais qui servent un objectif principal : apprendre à être plus indépendant et capable tout en découvrant d'autres façons de vivre.

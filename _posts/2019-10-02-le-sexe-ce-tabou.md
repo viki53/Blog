@@ -47,6 +47,8 @@ Le sexe fait pourtant partie des activités régulières d'un couple, une des pl
 
 Encore plus : c'est **la base de notre système de reproduction** tout en étant une activité permettant de ressentir du plaisir les plus primaires, et pourtant *on se contente du minimum sans chercher à faire mieux*, alors que [des chercheurs](https://fr.wikipedia.org/wiki/William_Masters_et_Virginia_Johnson) nous ont permis de découvrir que nous en étions capables.
 
+---
+
 # Reprendre les choses en main pour briser ce tabou
 
 > Je ne parle pas de prendre **votre** chose en main, messieurs, refermez donc tout de suite cette braguette…
@@ -60,6 +62,8 @@ Je ne vais pas prétendre avoir *la* solution pour tout changer : il faudra bea
 Peut-être faut-il s'affranchir du cadre actuel d'éducation pendant un temps et mettre en place une **plateforme ouverte pour permettre à chacun de s'éduquer librement, sans jugement** ? Un site et/ou une application rempli(e) de ressources et conseils pour **découvrir sa propre sexualité, mais aussi celle des autres**.
 
 Sans doute faut-il également **lancer nous-mêmes le mouvement** en évoquant le sujet avec nos amis voire notre famille, autrement que sous forme de blagues. **Proposer de l'aide** quand un couple autour de nous n'est pas épanoui alors qu'avec un peu de communication ils pourraient probablement sortir de cette impasse…
+
+---
 
 # Préparer l'avenir
 

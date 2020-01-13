@@ -10,11 +10,15 @@ Comme vous le savez probablement déjà, [j’ai quitté le monde du développem
 
 Puis je suis rentré, et j’ai du me remettre au boulot pour finir quelques projets encore en cours. J’ai donc pu être rappelé en quelques instants de mes raisons pour arrêter ce métier et surtout être encore plus motivé pour démarrer autre chose. Je ne vais pas vous détailler tout le process, mais pour faire simple je suis en train de me former à la conception d’habitat écologique (car on peut vivre dans un bâtiment bien isolé et qui produit sa propre énergie sans se ruiner, mais les constructeurs se contentent du minimum légal sans chercher à faire mieux alors que certaines techniques existent depuis des siècles).
 
+---
+
 # Retrouver l’envie de se lever le matin
 
 Un des principaux signes d’un manque de motivation à travailler, comme c’était mon cas, est bien souvent la difficulté à se lever le matin. J’avais de plus en plus de mal à me lever à 9h, après pourtant une longue nuit de sommeil. Et puis j’ai commencé à me pencher sur des projets persos que j’avais en tête depuis longtemps sans jamais m’y pencher (avec des excuses plus bancales les unes que les autres, souvent à base de “j’ai pas le temps”). Je me suis donc mis à peindre et à bricoler… et j’adore ça ! Et je me lève tous les matins vers 8h15, parfois même avant que mon réveil ne sonne !
 
 Certes je ne gagne pas d’argent avec ces projets, mais en plus de faire quelque chose qui me plait certains sont utiles (je fabrique par exemple un composteur adapté à l’espace disponible que j’ai et j’ai installé une caméra de recul sur une voiture). Et j’apprends et découvre plein de choses !
+
+---
 
 
 # Être moins accro à l’argent
@@ -26,6 +30,8 @@ Et quelque chose a cliqué : j’avais l’habitude d’acheter sans réfléchir
 Ce déclic a donc changé mon rapport à l’argent : plutôt que de dépenser parce que je peux ou pour m’apporter un bonheur qui n’est que temporaire, et si je dépensais uniquement ce dont j’ai réellement besoin ? Et si je me contentais de ce que j’ai ?
 
 J’ai pris quelques décisions, certaines plus simples à respecter que d’autres, mais aucune impossible à tenir et toutes m’incitant à consommer de façon plus responsable.
+
+---
 
 
 ## 1. Acheter moins
@@ -54,6 +60,8 @@ J’ai vu récemment que la génération dont je — et probablement toi aussi, 
 
 Et quand je veux manger avec des amis ? C’est simple : je les invite à manger ! On peut donc prendre l’apéro tranquillement sur le canapé, discuter, passer à table sans être interrompus par un serveur et retourner discuter sur le canapé ou faire un jeu de société.
 
+---
+
 # Réduire les distractions
 
 Pour en revenir à tout ces achats accumulés, j’ai commencé à faire un état des lieux qui m’a permis de voir que beaucoup de ces objets étaient inutiles (la plupart sont là parce que “on sait jamais, ça peut servir”). J’ai donc commencé à en vendre et donner.
@@ -63,6 +71,8 @@ Et puis j’ai eu envie de passer moins de temps devant la télé. J’avais un 
 J’ai donc mis le tout en vente. Je n’aurai donc bientôt plus de TV (il ne me reste plus que l’écran et le meuble, le reste est déjà parti). Je vous entends d’ici : mais *comment tu vas regarder des films ou les dernières séries ?* C’est plutôt simple : j’ai un ordi portable, un écran qui va avec et un iPad.
 
 Quand j’étais étudiant j’avais uniquement mon ordi portable (plus lourd, plus chaud et avec un écran largement moins agréable) et ça me suffisait largement : pourquoi ce ne serait plus le cas maintenant ? Dans le pire des cas, je peux toujours en acheter une autre (d’occasion, évidemment) plus tard si vraiment j’en ai besoin (auquel cas elle sera plus petite et ira sur un autre meuble dans un coin de la pièce plutôt qu’au milieu).
+
+---
 
 # Réduire le stress inutile
 

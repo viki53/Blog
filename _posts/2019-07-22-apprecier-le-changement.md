@@ -12,6 +12,8 @@ Et tout ces changements ont l'air de faire peur à beaucoup de gens, *comme si c
 
 Alors je me pose la question : pourquoi ne pas faire en sorte de **changer pour s'améliorer**, plutôt que d'attendre que le changement nous tombe dessus ? Ainsi on s'assure que la nouveauté est la bienvenue (et même souhaitée) plutôt qu'une mésaventure de plus ou un imprévu pas forcément maîtrisé aux retombées aléatoires.
 
+---
+
 # Pourquoi changer ?
 
 ## Mieux vivre
@@ -34,11 +36,15 @@ Et plus vous serez en capacité de vous adapter, plus vous apprécierez le chang
 
 Un des facteurs qui m'a poussé à changer est que j'en avais **marre d'attendre** que la société s'adapte, je voulais être vecteur de changement en montrant que c'est possible. Alors j'ai sauté le pas, pour (peut-être, *en tout cas je l'espère fortement*) **vous inspirer** vous aussi à **prendre votre avenir en main** et changer si besoin.
 
+---
+
 # Changer c'est angoissant
 
 Pour beaucoup le changement est souvent une grande source d'anxiété. C'est d'ailleurs ce qui pousse généralement à refuser le changement : éviter cet inconfort à tout prix. Mais l'anxiété peut être maitrisée si tant est qu'on en connaisse les clés.
 
 Déjà en se fixant un objectif accompagnant le changement, on peut suivre une trajectoire prévisible et donc éliminer certaines incertitudes. En acceptant le changement comme étant quelque chose de positif plutôt qu'un risque incontrôlable on réduit également le stress lié.
+
+---
 
 # Changer quoi ?
 
@@ -62,6 +68,8 @@ Que vous soyez capitaliste ou non l'idée devrait vous plaire : être capable d
 Si mes parents me le répètent depuis que je suis né, ça doit pas être pour rien… 🤷‍♂️
 
 Plus sérieusement, j'ai surtout appris à moins juger pour essayer de comprendre les choix de chacun. J'ai ainsi pu non seulement apprécier ce qui poussait certaines personnes à faire ce qu'elles font mais j'ai aussi pu apprendre de leurs parcours. En échangeant des idées, même si elles ne nous plaisent pas forcément, on peut être amené à découvrir de nouvelles choses qui peuvent, elles, nous plaire. Alors pourquoi ne pas **débattre intelligemment** (et c'est là le maître mot du schmilblick) ?
+
+---
 
 # Vos changements
 

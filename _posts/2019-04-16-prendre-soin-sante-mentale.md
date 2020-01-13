@@ -16,11 +16,15 @@ Eh bien figurez-vous que **j'ai… *pas* la solution** !
 
 **Vous voulez que je partage mes secrets ?** Ok, mais gardez bien à l'idée qu'il n'y a pas de solution miracle, que chaque personne a ses propres expériences. Il faudra donc *tester*, *ajuster* ces idées, voire en *rechercher* de nouvelles.
 
+---
+
 # Quelques *avertissements* avant de commencer
 
 Cet article risque d'être long car il touche à un **sujet très complexe**, lisez-le plus tard (ou en plusieurs fois) s'il le faut.
 
 Encore une fois **je ne suis aucunement expert** sur le sujet. Je partage ici quelques astuces qui m'ont permis de *gérer le stress du quotidien*. Si vous faites face à de gros problèmes, n'hésitez pas à contacter des spécialistes ou [une hotline qui pourra vous guider](https://www.suicide-ecoute.fr/).
+
+---
 
 #  Réduire les stimulations
 
@@ -74,6 +78,8 @@ Alors je l'ai vendue. La barre de son et le meuble aussi. J'ai acheté un modèl
 
 Et le grand écran d'ordi dernier cri ? J'ai déjà un ordinateur portable avec un écran intégré de très bonne qualité, ça suffit largement pour être concentré sur une chose à la fois. Autant m'éviter des torticolis et l'enlever du bureau tant que je n'en ai pas réellement besoin.
 
+---
+
 # Prendre du temps pour soi
 
 N'ayez pas peur de vous séparer des autres. Pas définitivement, mais passer une journée seul(e) permet de se retrouver face à soi-même, de faire des choses que l'on aime sans pression extérieure.
@@ -84,6 +90,8 @@ J'ai par exemple commencé à peindre il y a quelques mois. J'ai ensuite bricol�
 
 Non seulement j'ai pu faire quelque chose de personnel, mais j'ai beaucoup appris pour être plus indépendant au passage. *Ne comptez pas trop sur moi pour une prochaine collection printemps-été par contre…*
 
+---
+
 # Essayer autre chose
 
 Profiter du confort de nos habitudes permet d'éliminer le stress de l'inconnu, certes. Mais affronter l'inconnu permet aussi de découvrir autre chose, voire de mieux apprécier nos habitudes en les bousculant occasionnellement.
@@ -91,6 +99,8 @@ Profiter du confort de nos habitudes permet d'éliminer le stress de l'inconnu, 
 *Un exemple très personnel* : je n'étais pas forcément à l'aise avec mon corps jusqu'à très récemment. Comptant partir en vacances en Californie, j'ai contacté [une photographe américaine](http://ownboudoir.com/) spécialisée dans le Boudoir pour femmes pour lui demander si elle connaissait quelqu'un qui pourrait me permettre d'essayer, mais étant un homme c'est pas toujours simple de trouver un(e) photographe qui soit à l'aise. Elle m'a alors répondu qu'elle serait pas loin de ma destination pendant mon voyage et qu'elle a envie de s'entraîner avec des modèles masculins : coup de chance ! J'ai donc fait une séance, sans en parler à personne (à 2 ou 3 exceptions près) avant et attendu patiemment le résultat.
 
 Je n'aurais jamais pensé faire ça il y a quelques années et pourtant j'ai adoré cette expérience ! À vous de trouver cette expérience, propre à vous, qui vous fera **sortir des sentiers battus** et prendre un peu plus **confiance en vous**.
+
+---
 
 # Assumer ses choix
 
@@ -103,6 +113,8 @@ Que vous soyez écolo, polyamoureux, végétarien ou autre, **votre choix de vie
 L'idée encore une fois n'est pas de dire "*je suis comme ça, faites avec et qu'on n'en cause plus*" mais d'expliquer en quoi vous êtes différent : pas besoin de convertir les autres pour qu'ils puissent comprendre votre point de vue et le respecter. Vous pourrez ainsi trouver un terrain d'entente, faire des compromis pour vous entendre.
 
 J'ai par exemple expliqué avant Noël à ma famille que je ne mangeais presque plus de viande (en grande partie pour limiter la pollution liée à l'élevage intensif d'animaux — surtout les bovins). Sauf qu'avec 4 amateurs de viande rouge en face, difficile de faire passer la pilule : ne manger *que des légumes pour les repas de famille* ? Faire *2 menus différents* ? On a pas mal discuté pour finir par **trouver un juste milieu** : un plat de volaille (de la viande) issue d'une ferme locale (impact environnemental contenu) avec des légumes. On peut donc se retrouver à la même table et manger la même chose tout en respectant les choix de chacun.
+
+---
 
 # Communiquer et comprendre
 
@@ -146,6 +158,8 @@ Je n'ai jamais été très proche de mes parents, sans jamais vraiment comprendr
 
 Alors j'ai décidé de m'ouvrir un peu à ma famille, de leur expliquer ce que j'ai appris, en commençant par ma sœur. Le changement n'est pas radical et loin d'être terminé, mais mes parents ont trouvé l'idée géniale et repris l'initiative pour nous (leurs enfants) parler de leur jeunesse.
 
+---
+
 # Faire du sport
 
 Un autre point important pour la santé mentale, visiblement validé par les experts : pratiquer une activité physique aide à se sentir mieux.
@@ -162,6 +176,8 @@ Je fais de l'escalade depuis quelques années. Au début pour essayer de bouger 
 Et puis j'ai trouvé le sport qui me convient, que je peux pratiquer aussi bien pour passer le temps que pour me tenir en forme.
 
 Un défouloir efficace. Quand j'ai un coup de mou je file à la salle : 2 heures plus tard mon stress est évacué sous forme de sueur (*comment ça c'est pas scientifiquement prouvé ?*) !
+
+---
 
 # Discutons ensemble
 

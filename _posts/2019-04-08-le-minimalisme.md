@@ -10,6 +10,8 @@ Un des principes ayant eu le plus gros impact dans ma vie (surtout récemment) e
 
 J'ai découvert ce principe grâce à YouTube, en particulier [la chaîne de Matt D'Avella](https://www.youtube.com/mattdavella) qui explique très bien le concept de façon légère, candide et honnête : il est lui-même minimaliste mais ne cherche pas à fonder un culte, il présente juste son point de vue (et ceux d'autres personnes qu'il interroge parfois dans son podcast).
 
+---
+
 # Ça consiste en quoi ?
 
 L'idée est simple : on essaie de consommer moins (et mieux) et de se séparer (progressivement ou non) du superflu. L'un des objectifs étant de réapprendre à apprécier ce que l'on a, d'en tirer le maximum, et de consommer plus intelligemment.
@@ -18,17 +20,23 @@ On arrête ainsi d'acheter impulsivement, parce qu'on peut. On va plutôt prendr
 
 Cet état d'esprit permet de faire des choix économiques plus raisonnables (moins d'achats inutiles donc moins d'argent dépensé en vain) mais aussi plus écologiques (moins d'objets non utilisés et moins d'achats au total donc moins de pollution). Et pour ceux qui souhaitent mettre de l'argent de côté ou rembourser des dettes/emprunts, c'est un bon moyen de reprendre la main sur ses finances.
 
+---
+
 # Et c'est tout ? Je croyais que je devais vider mes placards ?
 
 Non ce n'est pas tout ! Enfin… rien n'est obligatoire, chacun peut vivre sa propre expérience du minimalisme. Mais la prochaine étape, qui est sans doute la plus connue car la plus visible, consiste à se séparer de ce que l'on n'utilise pas.
 
 Encore une fois, le changement n'a pas à être immédiat ni radical. J'ai moi-même d'abord supprimé une poignée de choses trop envahissantes chez moi, plutôt que les grandes quantités de babioles amassées dans les tiroirs, à commencer par ma TV que j'ai remplacé par une plus petite pour être moins distrait quand je travaille dans mon salon (étant freelance ça arrive souvent, et c'est pas toujours simple de rester concentré sur un projet quand on peut regarder des séries sur un grand écran).
 
+---
+
 # Mais… j'ai pas envie de jeter tous mes souvenirs !
 
 Alors ne les jetez pas ! Si quelque chose vous tient vraiment à cœur gardez-le.
 
 Une autre possibilité peut être de prendre des photos de ces souvenirs, pour toujours en garder une trace. Vous pouvez même faire un album avec ces photos : si les cadeaux de vos proches sont dans cet album ils apprécieront peut-être d'y figurer même si vous vous êtes séparé de l'objet en question.
+
+---
 
 # Et si je ne veux pas jeter ? C'est pas très écolo quand même…
 
@@ -39,6 +47,8 @@ Au lieu de jeter, vous pouvez tout simplement vendre ce qui a de la valeur (youp
 Si personne n'en veut, vous pouvez aussi peut-être transformer un objet (ou plusieurs) pour lui donner un autre usage.
 
 Et en dernier recours, pensez à recycler ! Toute matière non extraite du sol génère moins de pollution que si on devait miner encore et toujours plus de matières premières…
+
+---
 
 # Coin discussion
 

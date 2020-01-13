@@ -11,6 +11,8 @@ timezone: "Europe/Paris"
 encoding: UTF-8
 permalink: /:year/:month/:day/:title:output_ext
 
+excerpt_separator: ---
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
