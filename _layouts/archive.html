@@ -30,7 +30,7 @@
 		{% assign author = site.data.authors[post.author] %}
 		<article class="article" itemscope itemtype="http://schema.org/BlogPosting">
 			<header>
-				<h1><a href="{{ post.url | prepend:site.github.url }}" itemprop="name headline">{{ post.title }}</a></h1>
+				<h1 itemprop="name headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
 			</header>
 			<div class="post-excerpt">
 				{{ post.excerpt }}
