@@ -3,7 +3,7 @@
 <main itemscope itemtype="http://schema.org/Blog">
 	<div class="container">
 		<div class="hero">
-			<h1 itemprop="name headline">{{ site.title }}</h1>
+			<h1 itemprop="name">{{ site.title }}</h1>
 		</div>
 
 		{% include pagination.html %}
@@ -18,7 +18,7 @@
 		{% endfor %}
 		<article class="article" itemscope itemtype="http://schema.org/BlogPosting">
 			<header>
-				<h1 itemprop="name headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
+				<h1 itemprop="headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
 			</header>
 			<div class="post-excerpt">
 				{{ post.excerpt }}
@@ -26,7 +26,7 @@
 			<footer>
 				<p>
 					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url datePublished">le {{ post.date | date:"%d/%m/%Y" }}</a>
-					par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email"><span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ author.name }}</span></a>{% if category %}
+					par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>{% if category %}
 					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/" itemprop="articleSection">{{ category.title }}</a>{% endif %}
 				<p>
 			</footer>
