@@ -37,9 +37,9 @@
 			</div>
 			<footer>
 				<p>
-					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url datePublished">le {{ post.date | date:"%d/%m/%Y" }}</a>
+					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:"%d/%m/%Y" }}</time></a>
 					par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>{% if category %}
-					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/" itemprop="articleSection">{{ category.title }}</a>{% endif %}
+					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}
 				<p>
 			</footer>
 		</article>
