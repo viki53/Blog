@@ -12,7 +12,7 @@
 		{% assign author = site.data.authors[post.author] %}
 		{% assign category = nil %}
 		{% for cat in site.data.categories %}
-			{% if cat.slug == post.category%}
+			{% if cat.slug == post.category %}
 			{% assign category = cat %}
 			{% endif %}
 		{% endfor %}

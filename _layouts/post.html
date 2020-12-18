@@ -5,7 +5,7 @@
 		{% assign post = page %}
 		{% assign author = site.data.authors[post.author] %}
 		{% for cat in site.data.categories %}
-			{% if cat.slug == post.category%}
+			{% if cat.slug == post.category %}
 			{% assign category = cat %}
 			{% endif %}
 		{% endfor %}
