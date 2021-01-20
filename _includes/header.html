@@ -45,6 +45,8 @@
 	{% assign author = site.data.authors[page.author] %}
 	<meta name="twitter:creator" content="@{{ author.twitter }}">
 	{% endif %}
+
+	{% include matomo.html %}
 </head>
 <body>
 	<nav id="quick-access">
