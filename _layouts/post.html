@@ -2,17 +2,16 @@
 
 <main>
 	<div class="container">
-		{% assign post = page %}
-		{% assign author = site.data.authors[post.author] %}
+		{% assign author = site.data.authors[page.author] %}
 		{% for cat in site.data.categories %}
-			{% if cat.slug == post.category %}
+			{% if cat.slug == page.category %}
 			{% assign category = cat %}
 			{% endif %}
 		{% endfor %}
 
 		<article itemscope itemtype="http://schema.org/BlogPosting">
 			<header class="hero">
-				<h1 itemprop="headline">{{ post.title }}</h1>
+				<h1 itemprop="headline">{{ page.title }}</h1>
 			</header>
 			<div class="post-content" itemprop="articleBody">
 				{{ content }}
@@ -20,11 +19,16 @@
 			<footer class="post-info">
 				<p>
 					Article rédigé par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>.
-					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
-						{% include date-month-localized.html date=post.date %}
-						{{ post.date | date:"%Y" }} à {{ post.date | date:"%Hh%M" }}</time></a>{% if category %}
+					Publié <a href="{{ page.url | prepend:site.github.url }}" itemprop="url">le <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date:"%d" }}
+						{% include date-month-localized.html date=page.date %}
+						{{ page.date | date:"%Y" }} à {{ page.date | date:"%Hh%M" }}</time></a>{% if category %}
 					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}.
 				<p>
+				<p>
+					Partager : 
+					<a class="share-button" href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&via={{ site.twitter_username | uri_escape }}&text={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Twitter">Twitter</a>
+					<a class="share-button" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}&t={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Facebook">Facebook</a>
+				</p>
 			</footer>
 		</article>
 	</div>

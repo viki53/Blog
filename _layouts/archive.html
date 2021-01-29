@@ -39,7 +39,11 @@
 				<p>
 					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:"%d/%m/%Y" }}</time></a>
 					par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>{% if category %}
-					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}
+					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}.
+
+					Partager :
+					<a class="share-button small" href="https://twitter.com/intent/tweet?url={{ post.url | absolute_url | uri_escape }}&via={{ site.twitter_username | uri_escape }}&text={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Twitter">Twitter</a>
+					<a class="share-button small" href="https://www.facebook.com/sharer/sharer.php?u={{ post.url | absolute_url | uri_escape }}&t={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Facebook">Facebook</a>
 				<p>
 			</footer>
 		</article>

@@ -70,3 +70,20 @@ ul.photos-grid > li::before {
 		flex-basis: 33.3333%;
 	}
 }
+
+.share-button {
+	display: inline-block;
+	padding: .25em .5em;
+	color: $primary-color;
+	font-family: $font-family-headings;
+	font-style: normal;
+	text-decoration: none;
+	background-color: transparentize($accent-color, 0.8);
+	border: 1px solid $accent-color;
+	border-radius: 5px;
+
+	&:hover,
+	&:focus {
+		text-decoration: underline;
+	}
+}
