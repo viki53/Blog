@@ -9,21 +9,8 @@
 body {
 	margin: 0;
 	font-family: $font-family;
-	color: $page-text-color;
-	background-color: $page-fallback-bg-color;
-	background-image: url("../images/classy_fabric.png");
-
-	&::before {
-		content: "";
-		position: fixed;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: 100%;
-		background-color: $page-background-color;
-		opacity: .6;
-		z-index: -1;
-	}
+	color: $text-color;
+	background-color: $background-color;
 }
 
 *,
@@ -64,7 +51,11 @@ p {
 }
 
 a {
-	color: inherit;
+	color: $accent-color;
+
+	&:hover {
+		text-decoration: none;
+	}
 }
 
 img {
@@ -125,10 +116,9 @@ hr {
 	}
 }
 
-main {
-	.container {
-		color: $content-text-color;
-		background-color: $content-background-color;
-		box-shadow: 0 0 .75rem $shadow-color;
-	}
+#content {
+	color: $content-text-color;
+	background-color: $content-background-color;
+	box-shadow: 0 0 .75rem $shadow-color;
+	border-radius: 0 0 .5rem .5rem;
 }

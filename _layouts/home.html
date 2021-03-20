@@ -1,11 +1,13 @@
 {% include header.html %}
 
 <main itemscope itemtype="http://schema.org/Blog">
-	<div class="container">
-		<div class="hero">
+	<div class="hero">
+		<div class="container">
 			<h1 itemprop="name">{{ site.title }}</h1>
 		</div>
+	</div>
 
+	<div id="content" class="container">
 		{% include pagination.html %}
 
 		{% for post in paginator.posts %}

@@ -1,18 +1,20 @@
 {% include header.html %}
+{% assign author = site.data.authors[page.author] %}
+{% for cat in site.data.categories %}
+{% if cat.slug == page.category %}
+{% assign category = cat %}
+{% endif %}
+{% endfor %}
 
 <main>
-	<div class="container">
-		{% assign author = site.data.authors[page.author] %}
-		{% for cat in site.data.categories %}
-			{% if cat.slug == page.category %}
-			{% assign category = cat %}
-			{% endif %}
-		{% endfor %}
-
-		<article itemscope itemtype="http://schema.org/BlogPosting">
-			<header class="hero">
+	<article itemscope itemtype="http://schema.org/BlogPosting">
+		<header class="hero">
+			<div class="container">
 				<h1 itemprop="headline">{{ page.title }}</h1>
-			</header>
+			</div>
+		</header>
+
+		<div id="content" class="container">
 			<div class="post-content" itemprop="articleBody">
 				{{ content }}
 			</div>
@@ -30,8 +32,8 @@
 					<a class="share-button" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}&t={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Facebook">Facebook</a>
 				</p>
 			</footer>
-		</article>
-	</div>
+		</div>
+	</article>
 </main>
 
 {% include footer.html %}

@@ -5,17 +5,18 @@
 
 	a {
 		display: inline-block;
-		padding: .25em .5em;
+		padding: .5em;
+		color: inherit;
 
 		&.previous-page {
 			&::before {
-				content: '⬅︎ ';
+				content: '< ';
 			}
 		}
 
 		&.next-page {
 			&::after {
-				content: ' ➡︎';
+				content: ' >';
 			}
 		}
 	}
