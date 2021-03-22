@@ -53,8 +53,14 @@ p {
 a {
 	color: $accent-color;
 
-	&:hover {
+	&:hover,
+	&:focus {
 		text-decoration: none;
+	}
+	&:focus {
+		background-color: $primary-color;
+		color: $background-color;
+		outline: $primary-color solid 3px;
 	}
 }
 

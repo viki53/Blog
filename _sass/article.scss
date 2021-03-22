@@ -14,10 +14,12 @@
 			display: block;
 			padding: .5rem 0;
 			text-decoration: none;
-			color: inherit;
 
-			&:hover,
-			&:focus {
+			&:not(:focus) {
+				color: inherit;
+			}
+
+			&:hover {
 				text-decoration: underline;
 			}
 		}
@@ -86,5 +88,8 @@ ul.photos-grid > li::before {
 	&:hover,
 	&:focus {
 		text-decoration: underline;
+	}
+	&:focus {
+		outline: none;
 	}
 }
