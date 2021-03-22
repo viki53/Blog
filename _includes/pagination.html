@@ -1,21 +1,23 @@
 {% if paginator.total_pages > 1 %}
 <nav class="pagination">
-	{% if paginator.previous_page %}
-	<a href="{{ paginator.previous_page_path | prepend:site.github.url }}" class="previous-page">Page précédente</a>
-	{% endif %}
-
-	{% for page in (1..paginator.total_pages) %}
-		{% if page == paginator.page %}
-		<em class="current-page">{{ page }}</em>
-		{% elsif page == 1 %}
-		<a href="{{ '/' | prepend:site.github.url }}" class="page-link">{{ page }}</a>
-		{% else %}
-		<a href="{{ site.paginate_path | replace: ':num', page | prepend:site.github.url }}" class="page-link">{{ page }}</a>
+	<ul>
+		{% if paginator.previous_page %}
+		<li><a href="{{ paginator.previous_page_path | prepend:site.github.url }}" class="previous-page">Page précédente</a></li>
 		{% endif %}
-	{% endfor %}
 
-	{% if paginator.next_page %}
-	<a href="{{ paginator.next_page_path | prepend:site.github.url }}" class="next-page">Page suivante</a>
-	{% endif %}
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+			<li><a href="{{ site.paginate_path | replace: ':num', page | prepend:site.github.url }}" aria-label="Page en cours, page {{ page }}" aria-current="true" class="current-page">{{ page }}</a></li>
+			{% elsif page == 1 %}
+			<li><a href="{{ '/' | prepend:site.github.url }}" class="page-link">{{ page }}</a></li>
+			{% else %}
+			<li><a href="{{ site.paginate_path | replace: ':num', page | prepend:site.github.url }}" aria-label="Page {{ page }}" class="page-link">{{ page }}</a></li>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+		<li><a href="{{ paginator.next_page_path | prepend:site.github.url }}" class="next-page">Page suivante</a></li>
+		{% endif %}
+	</ul>
 </nav>
 {% endif %}

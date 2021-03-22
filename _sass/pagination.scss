@@ -3,12 +3,41 @@
 	padding: 2rem;
 	text-align: center;
 
-	a {
-		display: inline-block;
-		padding: .5em;
+	ul {
+		list-style-type: none;
+		padding: 0;
+	}
 
-		&:not(:focus) {
-			color: inherit;
+	li {
+		display: inline-block;
+		
+		&::before {
+			content: none;
+		}
+	}
+
+	a {
+		display: block;
+		padding: .5em 1em;
+		border-radius: 3px;
+		background-color: $accent-color;
+		color: $background-color;
+		text-decoration: none;
+
+		&:focus {
+			outline: none;
+		}
+		&:hover,
+		&:focus,
+		&[aria-current] {
+			background-color: $primary-color;
+			color: $background-color;
+		}
+
+		&[aria-current]:hover,
+		&[aria-current]:focus {
+			background-color: $accent-color;
+			box-shadow: 0 0 0 2px $primary-color;
 		}
 
 		&.previous-page {
