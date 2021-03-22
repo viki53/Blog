@@ -4,6 +4,7 @@
 	<div class="hero">
 		<div class="container">
 			<h1>
+				{% assign posts = Array.new %}
 				{% if page.type == 'year' %}
 				Articles de l'année <em>{{ page.date | date:'%Y' }}</em>
 				{% elsif page.type == 'month' %}
@@ -13,8 +14,9 @@
 				{% endif %}
 
 				{% if page.type == 'category' %}
-					{% for cat in site.data.categories %}
-						{% if page.title == cat.slug %}
+				{% for cat in site.data.categories %}
+					{% if page.title == cat.slug %}
+						{% assign posts = site.categories[page.title] %}
 						Catégorie "<em>{{ cat.title }}</em>"
 						{% endif %}
 					{% endfor %}
@@ -22,34 +24,40 @@
 			</h1>
 		</div>
 	</div>
-
+	
 	<div class="container">
-		{% if paginator.previous_page %}
-		<!-- Page {{ paginator.page }} -->
-		{% endif %}
+		<div id="content">
+			{% include pagination.html %}
 
-		{% for post in page.posts %}
-		{% assign author = site.data.authors[post.author] %}
-		<article class="article" itemscope itemtype="http://schema.org/BlogPosting">
-			<header>
-				<h1 itemprop="headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
-			</header>
-			<div class="post-excerpt">
-				{{ post.excerpt }}
-			</div>
-			<footer>
-				<p>
-					Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:"%d/%m/%Y" }}</time></a>
-					par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>{% if category %}
-					dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}.
+			{% for post in posts %}
+			{% assign author = site.data.authors[post.author] %}
+			{% assign category = nil %}
+			{% for cat in site.data.categories %}
+				{% if cat.slug == post.category %}
+				{% assign category = cat %}
+				{% endif %}
+			{% endfor %}
+			<article class="article" itemscope itemtype="http://schema.org/BlogPosting">
+				<header>
+					<h1 itemprop="headline"><a href="{{ post.url | prepend:site.github.url }}">{{ post.title }}</a></h1>
+				</header>
+				<div class="post-excerpt">
+					{{ post.excerpt }}
+				</div>
+				<footer>
+					<p>
+						Publié <a href="{{ post.url | prepend:site.github.url }}" itemprop="url">le <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:"%d/%m/%Y" }}</time></a>
+						par <a href="mailto:{{ author.email }}" title="Contacter l'auteur par email" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></a>{% if category %}
+						dans <a href="{{ '/categorie/' | prepend:site.github.url | append:category.slug }}/"><span itemprop="articleSection">{{ category.title }}</span></a>{% endif %}.
 
-					Partager :
-					<a class="share-button small" href="https://twitter.com/intent/tweet?url={{ post.url | absolute_url | uri_escape }}&via={{ site.twitter_username | uri_escape }}&text={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Twitter">Twitter</a>
-					<a class="share-button small" href="https://www.facebook.com/sharer/sharer.php?u={{ post.url | absolute_url | uri_escape }}&t={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Facebook">Facebook</a>
-				<p>
-			</footer>
-		</article>
-		{% endfor %}
+						Partager :
+						<a class="share-button small" href="https://twitter.com/intent/tweet?url={{ post.url | absolute_url | uri_escape }}&via={{ site.twitter_username | uri_escape }}&text={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Twitter">Twitter</a>
+						<a class="share-button small" href="https://www.facebook.com/sharer/sharer.php?u={{ post.url | absolute_url | uri_escape }}&t={{ post.title | uri_escape }}" target="_blank" rel="noopener noreferrer" title="Partager cet article sur Facebook">Facebook</a>
+					<p>
+				</footer>
+			</article>
+			{% endfor %}
+		</div>
 	</div>
 </main>
 

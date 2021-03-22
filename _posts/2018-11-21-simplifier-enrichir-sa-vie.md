@@ -2,7 +2,7 @@
 title:  "Simplifier sa vie pour l’enrichir"
 layout: post
 author: corentin
-category: vie-quotidien
+category: quotidien-vie
 date: 2018-11-21 19:07:00 +02:00
 ---
 

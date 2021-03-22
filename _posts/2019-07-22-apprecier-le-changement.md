@@ -2,7 +2,7 @@
 title:  "Apprécier le changement"
 layout: post
 author: corentin
-category: vie-quotidien
+category: quotidien-vie
 date: 2019-07-22 22:56:00 +02:00
 ---
 

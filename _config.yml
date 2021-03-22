@@ -18,7 +18,6 @@ excerpt_separator: ---
 markdown: kramdown
 highlighter: rouge
 plugins:
-  - jekyll-archives
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
@@ -27,19 +26,6 @@ plugins:
 sass:
   sass_dir: _sass
   style: compressed
-
-jekyll-archives:
-  enabled:
-    - year
-    - month
-    - day
-    - categories
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    category: '/categorie/:name/'
 
 feed:
   path: atom.xml

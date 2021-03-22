@@ -4,7 +4,19 @@
 	<meta charset="{{ site.encoding }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	{% if page.title %}
-	<title>{{ page.title }} | {{ site.title }}</title>
+		{% assign categoryName = nil %}
+		{% if page.type == 'category' %}
+			{% for cat in site.data.categories %}
+				{% if page.title == cat.slug %}
+				{% assign categoryName = cat.title %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+		{% if categoryName %}
+		<title>{{ categoryName }} | {{ site.title }}</title>
+		{% else %}
+		<title>{{ page.title }} | {{ site.title }}</title>
+		{% endif %}
 	{% else %}
 	<title>{{ site.title }}</title>
 	{% endif %}
