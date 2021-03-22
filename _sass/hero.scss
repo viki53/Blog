@@ -7,7 +7,12 @@
 	color: $hero-text-color;
 	background-color: $hero-fallback-bg-color;
 	background-image: url("../images/classy_fabric.png");
+	background-size: 102px 102px;
 	font-family: $font-family-headings;
+
+	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+		background-image: url("../images/classy_fabric@2x.png");
+	}
 
 	&::before {
 		content: "";
