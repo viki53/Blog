@@ -44,4 +44,4 @@ Je songe aussi à *ouvrir la rédaction à d'autres personnes*. Loin de moi l'id
 
 Maintenant on ferme les yeux, on respire profondément, on s'ouvre l'esprit et on lit quelques articles (avec modération, gardez-en pour plus tard !).
 
-Aucune obligation, mais ça me ferait également très plaisir que vous montriez votre intérêt en envoyant [le lien](https://blog.corentin-hatte.eu/) à vos amis, vos amoureu(x/se) ou votre famille.
+Aucune obligation, mais ça me ferait également très plaisir que vous montriez votre intérêt en envoyant [le lien](https://dose.corentin-hatte.eu/) à vos amis, vos amoureu(x/se) ou votre famille.
