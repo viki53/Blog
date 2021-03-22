@@ -116,12 +116,6 @@ hr {
 	overflow: hidden;
 }
 
-@media (max-width: 60rem) {
-	.container {
-		margin: 0 .5rem;
-	}
-}
-
 #content {
 	color: $content-text-color;
 	background-color: $content-background-color;
