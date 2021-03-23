@@ -6,7 +6,7 @@ category: quotidien-vie
 date: 2018-11-21 19:07:00 +02:00
 ---
 
-Comme vous le savez probablement déjà, [j’ai quitté le monde du développement Web récemment](https://medium.com/@viki53/les-artisans-du-web-se-meurent-et-le-web-avec-404567096842). Suite à cette décision, je suis parti en voyage (en Californie parce que j’avais envie de soleil) pour me couper un peu du monde. J’en ai donc profité pour déconnecter un peu, en suivant les actualités de loin, en discutant avec des gens sur place plutôt que sur des réseaux sociaux, en observant le paysage devant moi plutôt que sur les photos des autres. Et ça m’a fait du bien. Énormément de bien.
+Comme vous le savez probablement déjà, [j’ai pris un peu de recul par rapport au monde du développement Web récemment](https://medium.com/@viki53/les-artisans-du-web-se-meurent-et-le-web-avec-404567096842). Suite à cette décision, je suis parti en voyage (en Californie parce que j’avais envie de soleil) pour me couper un peu du monde. J’en ai donc profité pour déconnecter un peu, en suivant les actualités de loin, en discutant avec des gens sur place plutôt que sur des réseaux sociaux, en observant le paysage devant moi plutôt que sur les photos des autres. Et ça m’a fait du bien. Énormément de bien.
 
 Puis je suis rentré, et j’ai du me remettre au boulot pour finir quelques projets encore en cours. J’ai donc pu être rappelé en quelques instants de mes raisons pour arrêter ce métier et surtout être encore plus motivé pour démarrer autre chose. Je ne vais pas vous détailler tout le process, mais pour faire simple je suis en train de me former à la conception d’habitat écologique (car on peut vivre dans un bâtiment bien isolé et qui produit sa propre énergie sans se ruiner, mais les constructeurs se contentent du minimum légal sans chercher à faire mieux alors que certaines techniques existent depuis des siècles).
 
@@ -106,7 +106,3 @@ Je ne sais pas encore. L’avenir est encore flou et ça me convient très bien 
 # Et vous ?
 
 Le but d’un article comme celui-ci n’est pas d’imposer mes idées mais de les partager et de lancer une discussion. **J’attends donc avec impatience vos avis, vos interrogations et vos propres retours d’expérience !**
-
----
-
-Article original publié sur [Medium.com](https://medium.com/@viki53/simplifier-sa-vie-pour-lenrichir-566ba42f508f) le 21 novembre 2018.
